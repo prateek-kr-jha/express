@@ -1,0 +1,22 @@
+{
+  "name": "helloWorldExpress",
+  "version": "1.0.0",
+  "description": "express practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateek-kr-jha/express.git"
+  },
+  "author": "Prateek Kumar Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateek-kr-jha/express/issues"
+  },
+  "homepage": "https://github.com/prateek-kr-jha/express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
